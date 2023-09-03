@@ -4,7 +4,7 @@ I am a biologist and aspiring statistitian, currently on the verge of graduating
 
 My current areas of interest lie in Neural Networks and Causal Inference, even though my knowledge in both areas is still very limited o.O. 
 
-Regardless of your specific interests, I hope you'll discover something valuable within the content presented here. (And Yes, chatGPT help me writing this info). 
+Regardless of your specific interests, I hope you'll discover something valuable within the content presented here. (And Yes, chatGPT did help me writing this info). 
 
 
 
