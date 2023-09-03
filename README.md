@@ -1,4 +1,12 @@
-### Hi there 👋
+### Bem-vindo! Bienvenido! Welcome! Bienvenue!
+
+I am a biologist and aspiring statistitian. I am in the verge of graduating and this page contains mostly the "homeworks" I had to complete during my studies. You will find some material about Temporal Series, Demography, Computational Statistics.
+
+I am currently interested in Neural Networks and Causal Inference, although I dont know much about neither. 
+
+Anyways, I hope you find something useful around here. 
+
+
 
 <!--
 **cmusso86/cmusso86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
