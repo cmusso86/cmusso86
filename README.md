@@ -1,10 +1,10 @@
 ### Bem-vindo! Bienvenido! Welcome! Bienvenue!
 
-I am a biologist and aspiring statistitian. I am in the verge of graduating and this page contains mostly the "homeworks" I had to complete during my studies. You will find some material about Temporal Series, Demography, Computational Statistics.
+I am a biologist and aspiring statistitian, currently on the verge of graduating. This page primarily showcases the academic assignments and projects I have undertaken during my studies, among some other trivialities.  You'll come across various materials related to topics such as Temporal Series, Demography, and Computational Statistics.
 
-I am currently interested in Neural Networks and Causal Inference, although I dont know much about neither. 
+My current areas of interest lie in Neural Networks and Causal Inference, even though my knowledge in both areas is still very limited o.O. 
 
-Anyways, I hope you find something useful around here. 
+Regardless of your specific interests, I hope you'll discover something valuable within the content presented here. (And Yes, chatGPT help me writing this info). 
 
 
 
