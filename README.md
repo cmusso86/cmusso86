@@ -1,6 +1,6 @@
 ### Bem-vindo! Bienvenido! Welcome! Bienvenue!
 
-I am a biologist and (finally!) statistitian. This page primarily showcases the academic assignments and projects I have undertaken during my studies, among some other trivialities.  You'll come across various materials related to topics such as Temporal Series, Demography, and Computational Statistics. Almost all content (or exacly all af them) was developed in R within RStudio using Rmarkdown and Quarto, (probably) because I am an incorrigible R-enthusiast and RStudio advocate.
+I am a biologist and (finally!) statistitian as well. This page primarily showcases the academic assignments and projects I have undertaken during my studies, among some other trivialities.  You'll come across various materials related to topics such as Temporal Series, Demography, and Computational Statistics. Almost all content (or exacly all af them) was developed in R within RStudio using Rmarkdown and Quarto, (probably) because I am an incorrigible R-enthusiast and RStudio advocate.
 
 My current areas of interest lie in Neural Networks and Causal Inference, even though my knowledge in both areas is still very limited o.O. 
 
